@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Fahed Aljaberi 
+### Cybersecurity Professional
+I’m building a hands-on cybersecurity portfolio focused on practical security skills, investigation,
 
-<!--
-**FahedAlj/FahedAlj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Cybersecurity Focus
+- Networking & Network Security
+- Penetration Testing
+- Defensive Security & Incident Response
+- Digital Forensics
+- Cloud Security
+- Python & Security Automation
+- Security Engineering
+- Malware Analysis
+- SIEM & Security Monitoring
 
-Here are some ideas to get you started:
+## Technologies & Tools
+**Security:**
+Nmap · Wireshark · Burp Suite · Metasploit · Microsoft Defender · Microsoft Sentinel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Programming & Scripting:**
+Python · PowerShell · Bash · SQL
+
+**Systems & Platforms:**
+Windows · Linux · Azure
+
+## Cybersecurity Projects
+Projects are being developed and documented through hands-on labs and practical security scenarios.
+
+## Goal
+To continuously develop practical cybersecurity skills and build expertise across offensive security,
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/fahed-aljaberi-a63696372/)
